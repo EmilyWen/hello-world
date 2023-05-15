@@ -1,0 +1,4 @@
+  "AadClientId": "7b6ad9ac-be41-4028-a609-aab3f579c04b",
+  "AadSecret": "nK-8Q~m-m49.GA9zJ0Oppx1Yc6UWTbVr3m0bHatb",
+  "AadTenantDomain": "hschou2017.onmicrosoft.com",
+  "AadTenantId": "4e10c5de-bcf0-4246-9a3a-0199537403db",
