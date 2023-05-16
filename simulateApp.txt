@@ -1,0 +1,4 @@
+"AadClientId": "ee888710-98b8-4d66-bd77-521d0c7b6335",
+"AadSecret": "ANi8Q~CQpYOanvCeM2vKlDp4srmoY0fSx~5EGbJ4",
+"AadTenantDomain": "wawen0722.onmicrosoft.com",
+"AadTenantId": "2addde90-5bd4-4bda-97d8-a761fc4f369c",
